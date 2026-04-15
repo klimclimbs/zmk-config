@@ -167,7 +167,7 @@
         gaming_num {
             bindings = <
 &none      &none    &none     &none     &none      &none      &none       &none   &none   &none   &none   &none
-&PG_UP     &kp N1   &kp N2    &kp N3    &kp N4     &kp N5     &kp BT_CLR  &kp N7  &kp N8  &kp N9  &trans  &trans
+&kp PG_UP  &kp N1   &kp N2    &kp N3    &kp N4     &kp N5     &kp BT_CLR  &kp N7  &kp N8  &kp N9  &trans  &trans
 &kp DEL    &kp N6   &kp N7    &kp N3    &kp L      &kp G      &kp BT_NXT  &kp N4  &kp N5  &kp N6  &kp N0  &trans
 &kp PG_DN  &kp N    &kp M     &kp V     &kp LS(T)  &kp LA(T)  &trans      &kp N1  &kp N2  &kp N3  &trans  &trans
            &trans   &trans    &trans    &trans     &trans     &trans      &trans  &trans  &trans  &trans
